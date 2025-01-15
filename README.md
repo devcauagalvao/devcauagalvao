@@ -20,7 +20,7 @@
 
 <h2 align="center">Technologies & Tools I Use</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,react,js,python,php,nodejs,html,css,mysql,firebase,git,github,vscode" alt="Technology Icons" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,react,js,python,php,nodejs,html,css,mysql,firebase,git,github,vscode,typescript,windows,supabase" alt="Technology Icons" style="display: inline-block; margin: 5px;" />
 </div>
 
 <h2 align="center">Connect with Me</h2>
