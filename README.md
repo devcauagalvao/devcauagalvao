@@ -50,9 +50,7 @@
 
 <h2 align="center">Let's Code Together!</h2>
 <p align="center">Feel free to check out my projects or reach out for collaborations. Let's build something great!</p>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcauagalvao&theme=highcontrast&locale=pt-br&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Graph" />
-</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer Wave" />
