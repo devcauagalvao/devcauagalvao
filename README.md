@@ -13,7 +13,7 @@
 <p align="center">
   I'm a <strong>Systems Analyst</strong> and passionate <strong>Software Developer</strong> specializing in Web & Mobile Development.  
   I thrive on solving complex problems, optimizing systems, and creating high-quality solutions.  
-  Currently working with <strong>React Native, React.js, Node.js, TypeScript, MySQL, and Firebase</strong>.  
+  Currently working with <strong>React Native, Java, Node.js, TypeScript, MySQL, and Firebase</strong>.  
   Always exploring new technologies to build scalable and efficient applications.
 </p>
 
