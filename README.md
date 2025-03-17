@@ -25,7 +25,7 @@
 
 <h2 align="center">Technologies & Tools</h2>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,react,java,nodejs,php,typescript,js,python,git,github,vscode,html,css,bootstrap" alt="Technology Icons" />
+<img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,react,java,nodejs,php,typescript,js,git,github,vscode,html,css,bootstrap" alt="Technology Icons" />
 
 </div>
 
